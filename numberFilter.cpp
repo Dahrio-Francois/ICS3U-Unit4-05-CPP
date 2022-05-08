@@ -1,7 +1,7 @@
 // Copyright (c) 2022 St. Mother Teresa HS All rights reserved.
 //
-// Created by: Andrew-Ten-Den
-// Created on: April 2022
+// Created by: Dahrio Francois
+// Created on: May 2022
 // This program adds all positive integers
 
 #include <iostream>
